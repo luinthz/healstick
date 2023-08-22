@@ -1,0 +1,5 @@
+name : HealStick
+author : LU
+version : 1.0.0
+api : [5.0.0]
+main : heal\lu\Main
